@@ -1,0 +1,17 @@
+{
+  "name": "vite-press-demo",
+  "version": "1.0.0",
+  "description": "Auto create vitepress sidebar and nav.",
+  "repository": "https://github.com/chenkai0520/docs",
+  "author": "chenkai",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.14.1"
+  }
+}
