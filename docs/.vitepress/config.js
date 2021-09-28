@@ -7,7 +7,7 @@ module.exports = {
   description: 'My Docs',
   base: '/',
   themeConfig: {
-    repo: 'chenkai0520/docs',
+    repo: 'ckvv/docs',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
