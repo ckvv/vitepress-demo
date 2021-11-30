@@ -1,5 +1,5 @@
 {
-  "name": "vite-press-demo",
+  "name": "vitepress-demo",
   "version": "1.0.0",
   "description": "Auto create vitepress sidebar and nav.",
   "repository": "https://github.com/ckvv/docs",
