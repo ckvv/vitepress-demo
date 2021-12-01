@@ -7,4 +7,4 @@ export default {
   enhanceApp({ app }) {
     app.use(ElementPlus);
   }
-}
+};

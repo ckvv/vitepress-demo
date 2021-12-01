@@ -2,7 +2,7 @@
   "name": "vitepress-demo",
   "version": "1.0.0",
   "description": "Auto create vitepress sidebar and nav.",
-  "repository": "https://github.com/ckvv/docs",
+  "repository": "https://github.com/ckvv/vitepress-demo",
   "author": "chenkai",
   "license": "MIT",
   "private": false,
